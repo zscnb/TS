@@ -1,0 +1,1 @@
+在server目录下 npm run dev 然后运行node ./dist/index.js就能打开电影系统
